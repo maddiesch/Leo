@@ -1,3 +1,3 @@
 # Leo
 
-A description of this package.
+A simple Pixel editor data model
